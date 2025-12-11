@@ -47,7 +47,7 @@ export const DATA = {
           role: "Frontend Lead @ Qawafel (Former Manager)",
           content:
             "I highly recommend Ali for any full stack development position. His dedication to excellence, ability to quickly grasp new concepts, and consistently high-quality work make him an invaluable asset to any team.",
-          avatar: "https://media.licdn.com/dms/image/v2/D4D03AQFyx0hACk2ebw/profile-displayphoto-crop_800_800/B4DZiaUJmTG8AI-/0/1754935630908?e=1765411200&v=beta&t=o4niWtNFeKgJw07MOIyHME8jcUqvCBHEGlzsl-K__gs",
+          avatar: "https://media.licdn.com/dms/image/v2/D4D03AQFyx0hACk2ebw/profile-displayphoto-crop_800_800/B4DZiaUJmTG8AI-/0/1754935630908?e=1767225600&v=beta&t=kd04YrWKJy57fo24hULK3rfs2b4umGRdXtw-iNG_snE",
         },
         {
           id: 2,
@@ -55,7 +55,7 @@ export const DATA = {
           role: "Full-Stack Engineer at Greenie Web (Teammate)",
           content:
             "Ali combines exceptional activity, intelligence, and reliability. He consistently ships high-quality code ahead of schedule, improved our codebase efficiency by 5%, and contributed to a 30% increase in positive customer feedback through his attention to detail and responsiveness.",
-          avatar: "https://media.licdn.com/dms/image/v2/D4E03AQHLupkI-GR6Ig/profile-displayphoto-shrink_800_800/B4EZZ2HisuHQAc-/0/1745738412647?e=1765411200&v=beta&t=C5iWIvL9BDTddNQzkjCD0VJHaDDjCNrD8xMv4ks9mSs",
+          avatar: "https://media.licdn.com/dms/image/v2/D4E03AQGYPlx-dSu66A/profile-displayphoto-crop_800_800/B4EZrTuTo6KUAI-/0/1764488737651?e=1767225600&v=beta&t=UMuoPTC5Al1n3SxbknU4xhfYOmzmM36_xCQWbuuUnl4",
         },
         {
           id: 3,
@@ -73,6 +73,22 @@ export const DATA = {
             "Ali is an exceptional software engineer and team leader. He consistently delivers innovative solutions, communicates clearly, and excels at problem-solving. He is a valuable asset to any organization.",
           avatar: "https://media.licdn.com/dms/image/v2/D4E35AQHCW4GcrFIyJQ/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1697914885949?e=1764352800&v=beta&t=T6wG_wDsZBjzmD0S0tSWXAn3gtElpazu-SDuzhG2l6Y",
         },
+        {
+          id: 5,
+          name: "Beshoy Emad",
+          role: "Graphic Designer",
+          content:
+            "I had the pleasure of working with Ali Almansoory at BENCHMARK DIGITAL SOLUTIONS, and I can confidently say he is one of the most dedicated and talented Full-Stack Developers I’ve worked with. Ali consistently delivered clean, scalable, and reliable solutions using Ruby on Rails, React.js, Next.js, and modern frontend tools.",
+          avatar: "https://media.licdn.com/dms/image/v2/D4D35AQHd8YuvCINvJw/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1725109585179?e=1766048400&v=beta&t=xkdWd7xBiLbBenQWmx6NpnXP0UqPx-7KT03Gngv4J0U",
+        }
+        ,{
+          id: 6,
+          name: "Pratikshya Poudel",
+          role: "Full Stack Developer",
+          content:
+            "I highly recommend Ali Akbar, my former team partner at Greenie Web Company in Singapore. He is a talented and dedicated professional, consistently delivering high-quality results. Ali's technical expertise, attention to detail, and collaborative nature make him a valuable asset.",
+          avatar: "https://media.licdn.com/dms/image/v2/C4E03AQEwIJgeCnTrPg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1600674172408?e=1767225600&v=beta&t=UJ88YSpgMYN_D9CjtoLAwLI9ZChAvUZxaji_S7Ml9aA",
+        }
       ],
     },
 
