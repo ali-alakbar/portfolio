@@ -44,7 +44,7 @@ export const DATA = {
         {
           id: 1,
           name: "Mohamed Basaleh - My mentor",
-          role: "Frontend Lead @ Qawafel (Former Manager)",
+          role: "Ruby on Rails Engineer @ NAWAQIS | Back-End API Development @ Rails",
           content: "Ali is someone who can take up tasks individually and close them. Has good hands on experience!",
           avatar: "https://media.licdn.com/dms/image/v2/D4D35AQE4quT-ihGBzQ/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1720094954503?e=1766487600&v=beta&t=P7VwH8dQL9BZEorA1yXR0HnMNAWgrfSGqr7RcaQRt68",
         },
