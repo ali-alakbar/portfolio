@@ -43,47 +43,55 @@ export const DATA = {
       items: [
         {
           id: 1,
-          name: "Mohammed Aljefri",
+          name: "Mohamed Basaleh - My mentor",
+          role: "Frontend Lead @ Qawafel (Former Manager)",
+          content:
+            "I highly recommend Ali for any full stack development position. His dedication to excellence, ability to quickly grasp new concepts, and consistently high-quality work make him an invaluable asset to any team.",
+          avatar: "https://media.licdn.com/dms/image/v2/D4D35AQE4quT-ihGBzQ/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1720094954503?e=1766487600&v=beta&t=P7VwH8dQL9BZEorA1yXR0HnMNAWgrfSGqr7RcaQRt68",
+        },
+        {
+          id: 2,
+          name: "Mohammed Aljefri - My manager",
           role: "Frontend Lead @ Qawafel (Former Manager)",
           content:
             "I highly recommend Ali for any full stack development position. His dedication to excellence, ability to quickly grasp new concepts, and consistently high-quality work make him an invaluable asset to any team.",
           avatar: "https://media.licdn.com/dms/image/v2/D4D03AQFyx0hACk2ebw/profile-displayphoto-crop_800_800/B4DZiaUJmTG8AI-/0/1754935630908?e=1767225600&v=beta&t=kd04YrWKJy57fo24hULK3rfs2b4umGRdXtw-iNG_snE",
         },
         {
-          id: 2,
-          name: "Minh Vy Ha",
+          id: 3,
+          name: "Minh Vy Ha - My teammate",
           role: "Full-Stack Engineer at Greenie Web (Teammate)",
           content:
             "Ali combines exceptional activity, intelligence, and reliability. He consistently ships high-quality code ahead of schedule, improved our codebase efficiency by 5%, and contributed to a 30% increase in positive customer feedback through his attention to detail and responsiveness.",
           avatar: "https://media.licdn.com/dms/image/v2/D4E03AQGYPlx-dSu66A/profile-displayphoto-crop_800_800/B4EZrTuTo6KUAI-/0/1764488737651?e=1767225600&v=beta&t=UMuoPTC5Al1n3SxbknU4xhfYOmzmM36_xCQWbuuUnl4",
         },
         {
-          id: 3,
-          name: "Dr. Ian Chew",
+          id: 4,
+          name: "Dr. Ian Chew - My Boss",
           role: "Founder, Greenie Web (Former Manager)",
           content:
             "Ali was a detail-oriented member of the engineering team and very helpful to his peers. He communicates clearly and worked effectively with team members from multiple countries. I was very pleased to have supervised Ali during his time with the company.",
           avatar: "https://media.licdn.com/dms/image/v2/D5603AQEKX73LRPovDQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730257835435?e=1765411200&v=beta&t=N9bnz9zE-yFXxWZ3ABKoYNxX9cvu__tw3rcbeEYE3Uw",
         },
         {
-          id: 4,
-          name: "Elmahdi Mamoun",
+          id: 5,
+          name: "Elmahdi Mamoun - My teammate",
           role: "Software Engineer – Former Teammate",
           content:
             "Ali is an exceptional software engineer and team leader. He consistently delivers innovative solutions, communicates clearly, and excels at problem-solving. He is a valuable asset to any organization.",
           avatar: "https://media.licdn.com/dms/image/v2/D4E35AQHCW4GcrFIyJQ/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1697914885949?e=1764352800&v=beta&t=T6wG_wDsZBjzmD0S0tSWXAn3gtElpazu-SDuzhG2l6Y",
         },
         {
-          id: 5,
-          name: "Beshoy Emad",
+          id: 6,
+          name: "Beshoy Emad - My teammate",
           role: "Graphic Designer",
           content:
             "I had the pleasure of working with Ali Almansoory at BENCHMARK DIGITAL SOLUTIONS, and I can confidently say he is one of the most dedicated and talented Full-Stack Developers I’ve worked with. Ali consistently delivered clean, scalable, and reliable solutions using Ruby on Rails, React.js, Next.js, and modern frontend tools.",
           avatar: "https://media.licdn.com/dms/image/v2/D4D35AQHd8YuvCINvJw/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1725109585179?e=1766048400&v=beta&t=xkdWd7xBiLbBenQWmx6NpnXP0UqPx-7KT03Gngv4J0U",
-        }
-        ,{
-          id: 6,
-          name: "Pratikshya Poudel",
+        },
+        {
+          id: 7,
+          name: "Pratikshya Poudel - My teammate",
           role: "Full Stack Developer",
           content:
             "I highly recommend Ali Akbar, my former team partner at Greenie Web Company in Singapore. He is a talented and dedicated professional, consistently delivering high-quality results. Ali's technical expertise, attention to detail, and collaborative nature make him a valuable asset.",
